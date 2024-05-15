@@ -20,7 +20,11 @@ export const publishingDelegation = (data, id) => {
 在Spring Boot应用中，使用@RestController注解的类来定义RESTful API。为了接收上述请求，你可以编写如下方法：
 
 ```java
-import org.springframework.http.ResponseEntity; import org.springframework.web.bind.annotation.PutMapping; import org.springframework.web.bind.annotation.PathVariable; import org.springframework.web.bind.annotation.RequestBody; import org.springframework.web.bind.annotation.RestController; 
+import org.springframework.http.ResponseEntity; 
+import org.springframework.web.bind.annotation.PutMapping; 
+import org.springframework.web.bind.annotation.PathVariable; 
+import org.springframework.web.bind.annotation.RequestBody; 
+import org.springframework.web.bind.annotation.RestController; 
 @RestController public class TaskController {     
 // 注意这里的路径和方法名可以根据实际情况调整     
 @PutMapping("/task/getReason/{id}")     
