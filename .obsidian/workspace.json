@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js基础知识/在js中将字符串转换为时间字符串.md",
-                "mode": "source",
+                "file": "git/常用的Git基础命令.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js基础知识/在js中将字符串转换为时间字符串.md",
+                "file": "git/常用的Git基础命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js基础知识/在js中将字符串转换为时间字符串.md",
+                "file": "git/常用的Git基础命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js基础知识/在js中将字符串转换为时间字符串.md"
+                "file": "git/常用的Git基础命令.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,11 +149,13 @@
   },
   "active": "0158a800ab10bcb2",
   "lastOpenFiles": [
-    "js基础知识/在js中将字符串转换为Date().md",
-    "js基础知识/在js中将字符串转换为时间字符串.md",
-    "git/常用的Git基础命令.md",
-    "git/git config --list 命令.md",
+    "git/生成git提交记录.md",
     "git/常用命令.md",
+    "git/git config --list 命令.md",
+    "git/比较本地分支，合并分支.md",
+    "js基础知识/在js中将字符串转换为时间字符串.md",
+    "js基础知识/在js中将字符串转换为Date().md",
+    "git/常用的Git基础命令.md",
     "springboot/@RestController接收前端通过PUT方法发送的数据.md",
     "springboot/cron表达式.md",
     "springboot/Representational State Transfer（REST）.md",
@@ -173,12 +174,10 @@
     "README.md",
     "注解/@Transactional.md",
     "注解/实体类.md",
-    "git/比较本地分支，合并分支.md",
     "~$().md",
     "Excalidraw",
     "mybatis/参数占位符.md",
     "assters",
-    "().md",
     "mybatis",
     "mysql",
     "注解",
