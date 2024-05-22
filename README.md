@@ -1,53 +1,130 @@
-# studious-waffle
-A simple, lightweight, and easy-to-use Discord bot.
-## Features
-- Moderation commands
-- Fun commands
-- Utility commands
-## Requirements
-- Node.js v16.9.0 or higher
-- npm v7.21.1 or higher
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/studious-waffle.git
-cd studious-waffle
-npm install
-npm start
-```
-2. Create a `.env` file in the root directory and add your bot token:
-```env
-TOKEN=YOUR_BOT_TOKEN
-PREFIX=PREFIX_HERE
-```
-## Usage
-To use the bot, simply mention it in a message and follow the prompts.
-## Contributing
-    1. Fork the repository
-    2. Create a new branch (git checkout -b my-new-feature)
-    3. Commit your changes (git commit -am 'Add some feature')
-    4. Push to the branch (git push origin my-new-feature)
-    5. Create a new Pull Request
-    6. Wait for your PR to be reviewed and merged
-    7. Enjoy your new feature!
-    8. If you find any bugs or issues, please report them by creating an issue.
-    9. If you have any questions, please ask them in the issues section.
-    10. If you want to contribute to the project, please read the [Contributing Guidelines](https://github.com/your-username/studious-waffle/blob/main/CONTRIBUTING.md)
-    11. If you want to contribute to the project, please read the [Code of Conduct](https://github.com/your-username/studious-waffle/blob/main/CODE_OF_CONDUCT.md)
-    12. If you want to contribute to the project, please read the [License](https://github.com/your-username/studious-waffle/blob/main/LICENSE)
-    13. If you want to contribute to the project, please read the [Changelog](https://github.com/your-username/studious-waffle/blob/main/CHANGELOG.md)
-    14. If you want to contribute to the project, please read the [FAQ](https://github.com/your-username/studious-waffle/blob/main/FAQ.md)
-    15. If you want to contribute to the project, please read the [Security](https://github.com/your-username/studious-waffle/blob/main/SECURITY.md)
+# 我的笔记集合
 
-## License
-MIT License
-Copyright (c) 2022 Your Name
+欢迎访问我的笔记集合仓库！这个仓库包含了我在学习和工作中的各种笔记，包括但不限于 Git、Java、JavaScript、MyBatis、MySQL、Redis、Spring、Spring Security、Spring Boot、Swagger 以及一些常用注解。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER INAN ACTION OF CONTRACT, TORT OR OTHERWISE, ARIS
-## Contributors
-- [Your Name](https://github.com/your-username)
-## Changelog
+## 目录
 
+- [简介](#简介)
+- [笔记列表](#笔记列表)
+  - [Git](#git)
+  - [Java 基础知识](#java基础知识)
+  - [JavaScript 基础知识](#js基础知识)
+  - [MyBatis](#mybatis)
+  - [MySQL](#mysql)
+  - [Redis](#redis)
+  - [Spring](#spring)
+  - [Spring Security](#spring-security)
+  - [Spring Boot](#springboot)
+  - [Swagger](#swagger)
+  - [注解](#注解)
+- [如何使用](#如何使用)
+- [贡献](#贡献)
+- [许可证](#许可证)
+- [联系我](#联系我)
 
+## 简介
+
+这个仓库是为了记录和分享我在学习和工作中积累的知识和经验。希望这些笔记对你有所帮助，也欢迎你提出宝贵的意见和建议。
+
+## 笔记列表
+
+### Git
+
+- [git config --list 命令](assters/git/git%20config%20--list%20命令.md)
+- [常用命令](assters/git/常用命令.md)
+- [常用的 Git 基础命令](assters/git/常用的Git基础命令.md)
+- [比较本地分支，合并分支](assters/git/比较本地分支，合并分支.md)
+- [生成 git 提交记录](assters/git/生成git提交记录.md)
+
+### Java 基础知识
+
+- [java.time.LocalDateTime 和 java.util.Date](assters/java基础知识/java.time.LocalDateTime和java.util.Date.md)
+- [Java 内部类有哪些，作用和区别以及使用规则](assters/java基础知识/java内部类有哪些，作用和区别以及使用规则.md)
+- [Stream 流](assters/java基础知识/stream流.md)
+- [使用流的方式将一个 int 数组转换为 List 集合](assters/java基础知识/使用流的方式将一个int数组转换为list集合.md)
+- [多线程的实现方式](assters/java基础知识/多线程的实现方式.md)
+- [枚举类](assters/java基础知识/枚举类.md)
+- [通过 Stream API 来处理数据集合](assters/java基础知识/通过Stream%20API来处理数据集合.md)
+- [逻辑与运算符和逻辑或运算符](assters/java基础知识/逻辑与运算符和逻辑或运算符.md)
+
+### JavaScript 基础知识
+
+- [JS 中有关数组的函数](assters/js基础知识/js中有关数组的函数.md)
+- [在 JS 中将字符串转换为 Date ()，互相转换](assters/js 基础知识/在 js 中将字符串转换为 Date ()，互相转换. Md)
+- [在 JS 中将字符串转换为时间字符串](assters/js基础知识/在js中将字符串转换为时间字符串.md)
+
+### MyBatis
+
+- [XML](assters/mybatis/xml.md)
+- [使用 MyBatis-Plus 进行批量更新](assters/mybatis/使用MyBatis-Plus进行批量更新.md)
+- [参数占位符](assters/mybatis/参数占位符.md)
+- [每种参数类型作为返回结果时的具体使用和注意事项](assters/mybatis/每种参数类型作为返回结果时的具体使用和注意事项.md)
+- [每种参数类型在 MyBatis 中的具体使用和注意事项](assters/mybatis/每种参数类型在MyBatis中的具体使用和注意事项.md)
+
+### MySQL
+
+- [连接（JOIN）](assters/mysql/连接（JOIN）.md)
+
+### Redis
+
+- [Redis 工具类](assters/redis/redis工具类.md)
+
+### Spring
+
+- [@Qualifier 注解解决当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题](assters/Spring/@Qualifier注解解决当存在多个相同类型的%20Bean%20时，Spring%20容器不知道如何自动装配的问题.md)
+- [当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题](assters/Spring/当存在多个相同类型的%20Bean%20时，Spring%20容器不知道如何自动装配的问题.md)
+- [自动装配 Bean](assters/Spring/自动装配bean.md)
+
+### Spring Security
+
+- [HttpServletRequestWrapper](assters/Spring%20Security/HttpServletRequestWrapper.md)
+- [SecurityContextHolderAwareRequestWrapper](assters/Spring%20Security/SecurityContextHolderAwareRequestWrapper.md)
+- [Spring Security 使用 JWT 认证的设置](assters/Spring%20Security/Spring%20Security使用jwt认证的设置.md)
+
+### Spring Boot
+
+- [@RestController 接收前端通过 PUT 方法发送的数据](assters/springboot/@RestController接收前端通过PUT方法发送的数据.md)
+- [Cron 表达式](assters/springboot/cron表达式.md)
+- [Representational State Transfer（REST）](assters/springboot/Representational%20State%20Transfer（REST）.md)
+
+### Swagger
+
+- [Swagger 在 Java 中常用的注解](assters/Swagger/Swagger%20在%20Java%20中常用的注解.md)
+
+### 注解
+
+- [@Transactional](assters/注解/@Transactional.md)
+- [实体类](assters/注解/实体类.md)
+
+## 如何使用
+
+1. 克隆仓库到本地：
+
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+
+2. 浏览笔记内容：
+
+    你可以使用任何 Markdown 编辑器来浏览和编辑这些笔记。例如，VS Code、Typora 或者直接在 GitHub 上查看。
+
+## 贡献
+
+如果你有任何改进建议或者想要补充的内容，欢迎提交 Pull Request。请确保你的改动遵循以下准则：
+
+1. 提交前请先 Fork 仓库。
+2. 创建一个新的分支进行修改。
+3. 提交 Pull Request 时，请详细描述你的改动内容。
+
+## 许可证
+
+本仓库中的所有内容遵循 [MIT 许可证](LICENSE)。
+
+## 联系我
+
+如果你有任何问题或者建议，可以通过以下方式联系我：
+
+- Email: your-email@example.com
+- GitHub: [your-username](https://github.com/your-username)
+
+感谢你的访问和支持！
