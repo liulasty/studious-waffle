@@ -30,71 +30,71 @@
 
 ### Git
 
-- [git config --list 命令](assters/git/git%20config%20--list%20命令.md)
-- [常用命令](assters/git/常用命令.md)
-- [常用的 Git 基础命令](assters/git/常用的Git基础命令.md)
-- [比较本地分支，合并分支](assters/git/比较本地分支，合并分支.md)
-- [生成 git 提交记录](assters/git/生成git提交记录.md)
+- [git config --list 命令](git/git%20config%20--list%20命令.md)
+- [常用命令](git/常用命令.md)
+- [常用的 Git 基础命令](git/常用的Git基础命令.md)
+- [比较本地分支，合并分支](git/比较本地分支，合并分支.md)
+- [生成 git 提交记录](git/生成git提交记录.md)
 
 ### Java 基础知识
 
-- [java.time.LocalDateTime 和 java.util.Date](assters/java基础知识/java.time.LocalDateTime和java.util.Date.md)
-- [Java 内部类有哪些，作用和区别以及使用规则](assters/java基础知识/java内部类有哪些，作用和区别以及使用规则.md)
-- [Stream 流](assters/java基础知识/stream流.md)
-- [使用流的方式将一个 int 数组转换为 List 集合](assters/java基础知识/使用流的方式将一个int数组转换为list集合.md)
-- [多线程的实现方式](assters/java基础知识/多线程的实现方式.md)
-- [枚举类](assters/java基础知识/枚举类.md)
-- [通过 Stream API 来处理数据集合](assters/java基础知识/通过Stream%20API来处理数据集合.md)
-- [逻辑与运算符和逻辑或运算符](assters/java基础知识/逻辑与运算符和逻辑或运算符.md)
+- [java.time.LocalDateTime 和 java.util.Date](java基础知识/java.time.LocalDateTime和java.util.Date.md)
+- [Java 内部类有哪些，作用和区别以及使用规则](java基础知识/java内部类有哪些，作用和区别以及使用规则.md)
+- [Stream 流](java基础知识/stream流.md)
+- [使用流的方式将一个 int 数组转换为 List 集合](java基础知识/使用流的方式将一个int数组转换为list集合.md)
+- [多线程的实现方式](java基础知识/多线程的实现方式.md)
+- [枚举类](java基础知识/枚举类.md)
+- [通过 Stream API 来处理数据集合](java基础知识/通过Stream%20API来处理数据集合.md)
+- [逻辑与运算符和逻辑或运算符](java基础知识/逻辑与运算符和逻辑或运算符.md)
 
 ### JavaScript 基础知识
 
-- [JS 中有关数组的函数](assters/js基础知识/js中有关数组的函数.md)
-- [在 JS 中将字符串转换为 Date ()，互相转换](assters/js 基础知识/在 js 中将字符串转换为 Date ()，互相转换. Md)
-- [在 JS 中将字符串转换为时间字符串](assters/js基础知识/在js中将字符串转换为时间字符串.md)
+- [JS 中有关数组的函数](js基础知识/js中有关数组的函数.md)
+- [在 JS 中将字符串转换为 Date ()，互相转换](js 基础知识/在 js 中将字符串转换为 Date ()，互相转换. Md)
+- [在 JS 中将字符串转换为时间字符串](js基础知识/在js中将字符串转换为时间字符串.md)
 
 ### MyBatis
 
-- [XML](assters/mybatis/xml.md)
-- [使用 MyBatis-Plus 进行批量更新](assters/mybatis/使用MyBatis-Plus进行批量更新.md)
-- [参数占位符](assters/mybatis/参数占位符.md)
-- [每种参数类型作为返回结果时的具体使用和注意事项](assters/mybatis/每种参数类型作为返回结果时的具体使用和注意事项.md)
-- [每种参数类型在 MyBatis 中的具体使用和注意事项](assters/mybatis/每种参数类型在MyBatis中的具体使用和注意事项.md)
+- [XML](mybatis/xml.md)
+- [使用 MyBatis-Plus 进行批量更新](mybatis/使用MyBatis-Plus进行批量更新.md)
+- [参数占位符](mybatis/参数占位符.md)
+- [每种参数类型作为返回结果时的具体使用和注意事项](mybatis/每种参数类型作为返回结果时的具体使用和注意事项.md)
+- [每种参数类型在 MyBatis 中的具体使用和注意事项](mybatis/每种参数类型在MyBatis中的具体使用和注意事项.md)
 
 ### MySQL
 
-- [连接（JOIN）](assters/mysql/连接（JOIN）.md)
+- [连接（JOIN）](mysql/连接（JOIN）.md)
 
 ### Redis
 
-- [Redis 工具类](assters/redis/redis工具类.md)
+- [Redis 工具类](redis/redis工具类.md)
 
 ### Spring
 
-- [@Qualifier 注解解决当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题](assters/Spring/@Qualifier注解解决当存在多个相同类型的%20Bean%20时，Spring%20容器不知道如何自动装配的问题.md)
-- [当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题](assters/Spring/当存在多个相同类型的%20Bean%20时，Spring%20容器不知道如何自动装配的问题.md)
-- [自动装配 Bean](assters/Spring/自动装配bean.md)
+- [@Qualifier 注解解决当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题](Spring/@Qualifier注解解决当存在多个相同类型的%20Bean%20时，Spring%20容器不知道如何自动装配的问题.md)
+- [当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题](Spring/当存在多个相同类型的%20Bean%20时，Spring%20容器不知道如何自动装配的问题.md)
+- [自动装配 Bean](Spring/自动装配bean.md)
 
 ### Spring Security
 
-- [HttpServletRequestWrapper](assters/Spring%20Security/HttpServletRequestWrapper.md)
-- [SecurityContextHolderAwareRequestWrapper](assters/Spring%20Security/SecurityContextHolderAwareRequestWrapper.md)
-- [Spring Security 使用 JWT 认证的设置](assters/Spring%20Security/Spring%20Security使用jwt认证的设置.md)
+- [HttpServletRequestWrapper](Spring%20Security/HttpServletRequestWrapper.md)
+- [SecurityContextHolderAwareRequestWrapper](Spring%20Security/SecurityContextHolderAwareRequestWrapper.md)
+- [Spring Security 使用 JWT 认证的设置](Spring%20Security/Spring%20Security使用jwt认证的设置.md)
 
 ### Spring Boot
 
-- [@RestController 接收前端通过 PUT 方法发送的数据](assters/springboot/@RestController接收前端通过PUT方法发送的数据.md)
-- [Cron 表达式](assters/springboot/cron表达式.md)
-- [Representational State Transfer（REST）](assters/springboot/Representational%20State%20Transfer（REST）.md)
+- [@RestController 接收前端通过 PUT 方法发送的数据](springboot/@RestController接收前端通过PUT方法发送的数据.md)
+- [Cron 表达式](springboot/cron表达式.md)
+- [Representational State Transfer（REST）](springboot/Representational%20State%20Transfer（REST）.md)
 
 ### Swagger
 
-- [Swagger 在 Java 中常用的注解](assters/Swagger/Swagger%20在%20Java%20中常用的注解.md)
+- [Swagger 在 Java 中常用的注解](Swagger/Swagger%20在%20Java%20中常用的注解.md)
 
 ### 注解
 
-- [@Transactional](assters/注解/@Transactional.md)
-- [实体类](assters/注解/实体类.md)
+- [@Transactional](注解/@Transactional.md)
+- [实体类](注解/实体类.md)
 
 ## 如何使用
 
