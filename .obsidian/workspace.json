@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/Vue.js的生命周期.md",
+                "file": "mysql/centos.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "358dcc6ab6e8af4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nginx/常用的 Nginx 命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/Vue.js的生命周期.md",
+                "file": "nginx/常用的 Nginx 命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/Vue.js的生命周期.md",
+                "file": "nginx/常用的 Nginx 命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/Vue.js的生命周期.md"
+                "file": "nginx/常用的 Nginx 命令.md"
               }
             }
           }
@@ -147,21 +160,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c19989a129893c82",
+  "active": "358dcc6ab6e8af4a",
   "lastOpenFiles": [
-    "git/常用的Git基础命令.md",
+    "Linux/进程占用.md",
+    "nginx/常用的 Nginx 命令.md",
+    "未命名.md",
+    "mysql/centos.md",
+    "Linux",
+    "mysql/连接（JOIN）.md",
+    "mybatis/mybatisplus处理枚举类.md",
+    "java基础知识/枚举类.md",
+    "mybatis/xml.md",
+    "mybatis/使用MyBatis-Plus进行批量更新.md",
+    "mybatis/参数占位符.md",
     "vue/Vue.js的生命周期.md",
+    "git/常用的Git基础命令.md",
     "vue",
     "git/常用命令.md",
     "git/git config --list 命令.md",
     "git/生成git提交记录.md",
-    "nginx/常用的 Nginx 命令.md",
-    "mysql/centos.md",
     "nginx",
     "java基础知识/多线程的实现方式.md",
     "注解/@Transactional.md",
     "注解/实体类.md",
-    "java基础知识/枚举类.md",
     "Spring/自动装配bean.md",
     "Spring/当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题.md",
     "redis/redis工具类.md",
@@ -170,21 +191,13 @@
     "springboot/Representational State Transfer（REST）.md",
     "Swagger/Swagger 在 Java 中常用的注解.md",
     "README.md",
-    "java基础知识/使用流的方式将一个int数组转换为list集合.md",
-    "assters/git/git config --list 命令.md",
     "assters/git",
-    "mysql/连接（JOIN）.md",
-    "js基础知识/在js中将字符串转换为时间字符串.md",
-    "js基础知识/js中有关数组的函数.md",
-    "js基础知识/在js中将字符串转换为Date()，互相转换.md",
-    "java基础知识/逻辑与运算符和逻辑或运算符.md",
     "Swagger",
     "Spring",
     "Excalidraw",
     "assters",
     "mybatis",
     "mysql",
-    "注解",
     "未命名.canvas"
   ]
 }
