@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/centos.md",
-                "mode": "source",
+                "file": "mysql/常见的 SQL 关键字及其作用.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "358dcc6ab6e8af4a",
+            "id": "e4faad1a9bcdfb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nginx/常用的 Nginx 命令.md",
+                "file": "java基础知识/在java中，抽象类和接口的区别.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx/常用的 Nginx 命令.md",
+                "file": "mysql/常见的 SQL 关键字及其作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx/常用的 Nginx 命令.md",
+                "file": "mysql/常见的 SQL 关键字及其作用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx/常用的 Nginx 命令.md"
+                "file": "mysql/常见的 SQL 关键字及其作用.md"
               }
             }
           }
@@ -160,12 +159,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "358dcc6ab6e8af4a",
+  "active": "c19989a129893c82",
   "lastOpenFiles": [
+    "mysql/centos无法启动Mysql.md",
+    "java基础知识/在java中，抽象类和接口的区别.md",
+    "vue/Vue.js的生命周期.md",
+    "Excalidraw/Drawing 2024-06-01 23.53.15.excalidraw.md",
+    "未命名.md",
+    "未命名.canvas",
+    "Excalidraw",
+    "springboot/cron表达式.md",
+    "mysql/常见的 SQL 关键字及其作用.md",
+    "mysql/SQL 语句的执行顺序.md",
+    "git/导出git提交记录.md",
     "Linux/进程占用.md",
     "nginx/常用的 Nginx 命令.md",
-    "未命名.md",
-    "mysql/centos.md",
     "Linux",
     "mysql/连接（JOIN）.md",
     "mybatis/mybatisplus处理枚举类.md",
@@ -173,7 +181,6 @@
     "mybatis/xml.md",
     "mybatis/使用MyBatis-Plus进行批量更新.md",
     "mybatis/参数占位符.md",
-    "vue/Vue.js的生命周期.md",
     "git/常用的Git基础命令.md",
     "vue",
     "git/常用命令.md",
@@ -185,19 +192,11 @@
     "注解/实体类.md",
     "Spring/自动装配bean.md",
     "Spring/当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题.md",
-    "redis/redis工具类.md",
-    "springboot/@RestController接收前端通过PUT方法发送的数据.md",
-    "springboot/cron表达式.md",
-    "springboot/Representational State Transfer（REST）.md",
-    "Swagger/Swagger 在 Java 中常用的注解.md",
-    "README.md",
     "assters/git",
     "Swagger",
     "Spring",
-    "Excalidraw",
     "assters",
     "mybatis",
-    "mysql",
-    "未命名.canvas"
+    "mysql"
   ]
 }
