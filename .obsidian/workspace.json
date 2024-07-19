@@ -25,20 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java基础知识/java命名规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4faad1a9bcdfb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "springboot/Bean的注册.md",
-                "mode": "source",
+                "file": "html/监听浏览器标签页是否失去焦点.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java基础知识/java命名规范.md",
+                "file": "html/监听浏览器标签页是否失去焦点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java基础知识/java命名规范.md",
+                "file": "html/监听浏览器标签页是否失去焦点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java基础知识/java命名规范.md"
+                "file": "html/监听浏览器标签页是否失去焦点.md"
               }
             }
           }
@@ -162,27 +150,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "292bbbae2318d2f2",
   "lastOpenFiles": [
-    "nacso/当nacos、服务本地同时出现相同属性时，优先级有高低之分.md",
+    "笔记/编译.md",
+    "html/监听浏览器标签页是否失去焦点.md",
+    "springboot/Bean的注册.md",
+    "springMVC/在Java Web项目中，获取不同类型的路径.md",
+    "html",
+    "webpack/webpack介绍.md",
+    "vue/Vue.js的生命周期.md",
+    "java基础知识/目录结构规范.md",
     "java基础知识/java命名规范.md",
+    "nacso/当nacos、服务本地同时出现相同属性时，优先级有高低之分.md",
     "nacos.md",
     "nacso",
-    "笔记/编译.md",
     "注解/实现 HandlerMethodReturnValueHandler 接口，处理@Controller 中的方法返回的值.md",
     "注解/实体类.md",
     "注解/@Transactional.md",
-    "webpack/webpack介绍.md",
     "nginx/查看 Nginx 服务的状态.md",
     "nginx/常用的 Nginx 命令.md",
     "git/git同步远程仓库详细流程.md",
@@ -196,12 +190,7 @@
     "README.md",
     "js基础知识/在js中将字符串转换为时间字符串.md",
     "js基础知识/js中有关数组的函数.md",
-    "java基础知识/BIO、NIO、AIO有什么区别.md",
-    "java基础知识/两个对象 hashCode（）相同，则equals（）否也一定为true？.md",
-    "java基础知识/java内部类有哪些，作用和区别以及使用规则.md",
     "webpack",
-    "java基础知识/equals 与==区别.md",
-    "java基础知识/锁的实现.md",
     "springMVC",
     "笔记",
     "未命名.canvas",
@@ -209,7 +198,6 @@
     "Linux",
     "vue",
     "nginx",
-    "assters/git",
-    "Swagger"
+    "assters/git"
   ]
 }
