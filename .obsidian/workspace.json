@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/监听浏览器标签页是否失去焦点.md",
+                "file": "springboot/通用CRUD.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/监听浏览器标签页是否失去焦点.md",
+                "file": "springboot/通用CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/监听浏览器标签页是否失去焦点.md",
+                "file": "springboot/通用CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/监听浏览器标签页是否失去焦点.md"
+                "file": "springboot/通用CRUD.md"
               }
             }
           }
@@ -162,8 +162,11 @@
   },
   "active": "292bbbae2318d2f2",
   "lastOpenFiles": [
-    "笔记/编译.md",
+    "java基础知识/多线程的实现方式.md",
+    "springboot/通用CRUD.md",
+    "java基础知识/通过Stream API来处理数据集合.md",
     "html/监听浏览器标签页是否失去焦点.md",
+    "笔记/编译.md",
     "springboot/Bean的注册.md",
     "springMVC/在Java Web项目中，获取不同类型的路径.md",
     "html",
@@ -187,9 +190,6 @@
     "java基础知识/hashCode() 方法的实现.md",
     "java基础知识/在java中，抽象类和接口的区别.md",
     "java基础知识/使用流的方式将一个int数组转换为list集合.md",
-    "README.md",
-    "js基础知识/在js中将字符串转换为时间字符串.md",
-    "js基础知识/js中有关数组的函数.md",
     "webpack",
     "springMVC",
     "笔记",
