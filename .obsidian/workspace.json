@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c346493b5fff31c5",
+        "id": "3ea11d289e9cd330",
         "type": "tabs",
         "children": [
           {
-            "id": "c19989a129893c82",
+            "id": "c7956e5a42a12041",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/编译.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "292bbbae2318d2f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "springboot/通用CRUD.md",
+                "file": "Linux/文件.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "springboot/通用CRUD.md",
+                "file": "Linux/文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "springboot/通用CRUD.md",
+                "file": "Linux/文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "springboot/通用CRUD.md"
+                "file": "Linux/文件.md"
               }
             }
           }
@@ -160,44 +147,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "292bbbae2318d2f2",
+  "active": "c7956e5a42a12041",
   "lastOpenFiles": [
-    "java基础知识/多线程的实现方式.md",
+    "Linux/linux常用命令，以及查询系统运行情况命令.md",
+    "Linux/文件.md",
+    "mysql/mysql常用函数.md",
+    "mysql/常见的 SQL 关键字及其作用.md",
+    "mysql/连接（JOIN）.md",
+    "mysql/SQL 语句的执行顺序.md",
+    "mysql/centos无法启动Mysql.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名",
+    "maven/maven的手动安装jar包命令.md",
+    "笔记/编译.md",
+    "maven",
+    "Oracle/常用日期函数.md",
+    "Oracle/常用字符串函数.md",
+    "Oracle/常用sql语句.md",
+    "Oracle/数据类型.md",
+    "Java Persistence API (JPA)/未命名.md",
+    "Oracle",
+    "Java Persistence API (JPA)/注解/@Temporal.md",
+    "Java Persistence API (JPA)/注解",
+    "springboot/@RestController接收前端通过PUT方法发送的数据.md",
+    "Java Persistence API (JPA)",
     "springboot/通用CRUD.md",
+    "java基础知识/多线程的实现方式.md",
     "java基础知识/通过Stream API来处理数据集合.md",
     "html/监听浏览器标签页是否失去焦点.md",
-    "笔记/编译.md",
     "springboot/Bean的注册.md",
     "springMVC/在Java Web项目中，获取不同类型的路径.md",
     "html",
     "webpack/webpack介绍.md",
     "vue/Vue.js的生命周期.md",
-    "java基础知识/目录结构规范.md",
-    "java基础知识/java命名规范.md",
-    "nacso/当nacos、服务本地同时出现相同属性时，优先级有高低之分.md",
-    "nacos.md",
     "nacso",
-    "注解/实现 HandlerMethodReturnValueHandler 接口，处理@Controller 中的方法返回的值.md",
-    "注解/实体类.md",
-    "注解/@Transactional.md",
-    "nginx/查看 Nginx 服务的状态.md",
-    "nginx/常用的 Nginx 命令.md",
-    "git/git同步远程仓库详细流程.md",
-    "git/git config --list 命令.md",
-    "git/在Git中，push和pull是两个非常重要的命令.md",
-    "git/生成git提交记录.md",
-    "git/导出git提交记录.md",
-    "java基础知识/hashCode() 方法的实现.md",
-    "java基础知识/在java中，抽象类和接口的区别.md",
-    "java基础知识/使用流的方式将一个int数组转换为list集合.md",
     "webpack",
     "springMVC",
     "笔记",
-    "未命名.canvas",
-    "Excalidraw",
-    "Linux",
-    "vue",
-    "nginx",
-    "assters/git"
+    "未命名.canvas"
   ]
 }
