@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea11d289e9cd330",
+        "id": "203348780f58bbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "c7956e5a42a12041",
+            "id": "03bbe4ca5535a5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/如何使用com.alibaba.fastjson库来处理JSON数据1.md",
-                "mode": "source",
+                "file": "mysql/1.常见问题.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ce74baed41b7f54a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/如何使用com.alibaba.fastjson库来处理JSON数据1.md",
+                "file": "mysql/1.常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/如何使用com.alibaba.fastjson库来处理JSON数据1.md",
+                "file": "mysql/1.常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/如何使用com.alibaba.fastjson库来处理JSON数据1.md"
+                "file": "mysql/1.常见问题.md"
               }
             }
           }
@@ -147,43 +147,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c7956e5a42a12041",
+  "active": "03bbe4ca5535a5df",
   "lastOpenFiles": [
-    "elasticsearch",
-    "笔记/编译.md",
+    "微服务/1.常见问题.md",
+    "elasticsearch/1.常见问题.md",
+    "html/监听浏览器标签页是否失去焦点.md",
+    "springboot/Spring Boot 中的 AOP (面向切面编程).md",
+    "springboot/Spring Boot 的 IoC (Inversion of Control) 简介.md",
+    "springboot/什么是Bean.md",
+    "springboot/1.常见问题.md",
+    "assters/UDP和TCP的区别.md",
+    "assters/TCP (Transmission Control Protocol) 的详细介绍.md",
+    "vue/1.常见问题.md",
     "笔记/如何使用com.alibaba.fastjson库来处理JSON数据1.md",
-    "笔记/如何使用com.alibaba.fastjson库来处理JSON数据2.md",
     "如何使用com.alibaba.fastjson库来处理JSON数据2.md",
-    "Linux/文件.md",
-    "Linux/进程占用.md",
-    "Linux/linux常用命令，以及查询系统运行情况命令.md",
+    "笔记/如何使用com.alibaba.fastjson库来处理JSON数据2.md",
+    "笔记/编译.md",
     "README.md",
-    "webpack/webpack介绍.md",
-    "nacos.md",
-    "未命名 1.md",
-    "mysql/mysql常用函数.md",
-    "mysql/常见的 SQL 关键字及其作用.md",
-    "mysql/连接（JOIN）.md",
-    "mysql/SQL 语句的执行顺序.md",
-    "mysql/centos无法启动Mysql.md",
-    "maven/maven的手动安装jar包命令.md",
+    "java基础知识/stream流.md",
+    "java基础知识/java中的常用集合以及实现.md",
+    "java基础知识/2.jvm常见面试问题.md",
+    "java基础知识/1.常见问题.md",
+    "微服务/如何通过幂等性保证微服务之间的可靠性和容错性.md",
+    "Servlet/1.常见问题.md",
+    "微服务",
+    "springMVC/1.常见问题.md",
+    "Servlet",
+    "Spring/Spring Bean 的生命周期.md",
+    "tomcat/1.常见问题.md",
+    "Linux/1.常见面试问题.md",
+    "tomcat",
+    "Spring/1.常见问题.md",
+    "elasticsearch",
     "maven",
-    "Oracle/常用日期函数.md",
-    "Oracle/常用字符串函数.md",
-    "Oracle/常用sql语句.md",
-    "Oracle/数据类型.md",
-    "Java Persistence API (JPA)/未命名.md",
-    "Oracle",
-    "Java Persistence API (JPA)/注解/@Temporal.md",
+    "oracle",
     "Java Persistence API (JPA)/注解",
-    "springboot/@RestController接收前端通过PUT方法发送的数据.md",
     "Java Persistence API (JPA)",
-    "springboot/通用CRUD.md",
     "html",
-    "nacso",
-    "webpack",
-    "springMVC",
-    "笔记",
+    "nacos",
     "未命名.canvas"
   ]
 }
